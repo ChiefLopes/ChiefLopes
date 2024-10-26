@@ -1,6 +1,5 @@
-Lopes.READmd
 <h1 align="center">Hello 👋, I'm Louis Peace</h1>
-<h3 align="center">A passionate frontend developer, profficeint with ReactJS and NextJS</h3>
+<h3 align="center">A passionate frontend developer, profficeint with ReactJS and NextJS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chieflopes&label=Profile%20views&color=0e75b6&style=flat" alt="chieflopes" /> </p>
 
@@ -8,9 +7,7 @@ Lopes.READmd
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking to collaborate on **viable projects**
-
-- 🤝 I’m looking for help with **Anything JavaScript**
+- 👯 I’m looking to collaborate on **viable projects.**
 
 - 👨‍💻 All of my projects are available at [https://louis-peace.vercel.app](https://louis-peace.vercel.app)
 
@@ -18,7 +15,7 @@ Lopes.READmd
 
 - 📫 How to reach me **chieflopesekede@gmail.com**
 
-- 📄 Know about my experiences [https://louis-peace.vercel.app](https://louis-peace.vercel.app)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1FRUcc52hZp0cZMV4S5Od_ZuMvqE7vgQarsCpY-WvRh4/edit?usp=sharing)
 
 - ⚡ Fun fact **I love building**
 
@@ -34,4 +31,3 @@ Lopes.READmd
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chieflopes&show_icons=true&locale=en" alt="chieflopes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chieflopes&" alt="chieflopes" /></p>
-
